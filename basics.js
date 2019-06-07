@@ -36,3 +36,10 @@ let dataTypes = ["one", 1, false, {a:1, b:2}, [0,1], null, undefined];
  * it should have a `bark` function that makes your dog bark!
  * It should also have a name attribute with the value of 'Spot'
  */
+
+ let dog = {
+   name: "Spot",
+   bark: function() {
+     console.log(`Bark!`);
+   }
+ };
