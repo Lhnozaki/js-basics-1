@@ -30,7 +30,7 @@ let person = {name: "Lewis Nozaki", age: 28};
  * (there are 6 different data types);
  */
 
-let dataTypes
+let dataTypes = ["one", 1, false, {a:1, b:2}, [0,1], null, undefined];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
